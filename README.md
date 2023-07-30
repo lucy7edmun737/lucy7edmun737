@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucy7edmun737
+- 👀 I’m interested in Ruby. I’m currently learning Ruby.
+- 🌱 Software Engineering student, skilled in Ruby.
+- 💞️  Eager to contribute to and learn from open-source projects.
